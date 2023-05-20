@@ -4,7 +4,7 @@
   "description": "hoapi",
   "main": "index.js",
   "scripts": {
-    "test": "supervisor ./"
+    "test": "supervisor ./serve/service"
   },
   "repository": {
     "type": "git",
